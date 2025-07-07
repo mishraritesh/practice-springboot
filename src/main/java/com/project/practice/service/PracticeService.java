@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class PracticeService {
 
     @GetMapping("/greet")
-    public void greet(){
-        System.out.println("Hello There!!");
+    public String greet(){
+        return "Hello There!!";
     }
 }
