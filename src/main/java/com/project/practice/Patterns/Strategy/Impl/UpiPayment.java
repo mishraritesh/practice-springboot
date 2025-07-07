@@ -1,6 +1,6 @@
-package com.project.practice.Strategy.Impl;
+package com.project.practice.Patterns.Strategy.Impl;
 
-import com.project.practice.Strategy.PaymentStrategy;
+import com.project.practice.Patterns.Strategy.PaymentStrategy;
 
 public class UpiPayment implements PaymentStrategy {
     @Override

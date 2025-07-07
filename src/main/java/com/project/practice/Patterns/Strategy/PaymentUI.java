@@ -1,8 +1,8 @@
-package com.project.practice.Strategy;
+package com.project.practice.Patterns.Strategy;
 
-import com.project.practice.Strategy.Impl.CreditCardPayment;
-import com.project.practice.Strategy.Impl.PayPalPayment;
-import com.project.practice.Strategy.Impl.UpiPayment;
+import com.project.practice.Patterns.Strategy.Impl.CreditCardPayment;
+import com.project.practice.Patterns.Strategy.Impl.PayPalPayment;
+import com.project.practice.Patterns.Strategy.Impl.UpiPayment;
 
 public class PaymentUI {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.project.practice.Strategy;
+package com.project.practice.Patterns.Strategy;
 
 public class PaymentProcessor {
     PaymentStrategy strategy;
